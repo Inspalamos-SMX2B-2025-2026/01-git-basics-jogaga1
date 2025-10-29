@@ -26,25 +26,14 @@ arreglar-ho.
 > ```
 
 ## Exercici 1
-
   - Clona aquest repositori remot en un repositori local.
   - Copia el següent codi html i posa'l en un fitxer que es digui `exe1.html`.
-
-```html
-<html>
-    <body>
-        <h1>Exercici 1</h1>
-    </body>
-</html>
-```
-
   - Un cop copiat, esborra el codi html d'aquest fitxer, `README.md`, de forma
     que aquest punt quedi junt al punt anterior (sense cap línia en blanc entre
     ambdós).
   - Fes un únic commit que inclogui els canvis dels fitxers `README.md` i
     `exe1.html`. El missatge ha del commit ha de dir 'Nou exe1'.
   - Fes el push del commit que acabes de fer.
-
 ## Exercici 2
 
   - Copia el fitxer `exe1.html` a `exe2.html`.
