@@ -1,0 +1,113 @@
+    5  sudo apt install git
+    8  dir git
+    9  git init
+   11  rm -rf .git/
+   12  git config --global user.name "Joel Garcia"
+   13  git config --global user.email "joelgarcia200008@gmail.com"
+   14  git add index.html 
+   15  git init
+   16  git add index.html 
+   17  git status
+   18  less ~/.gitconfig4
+   19  less ~/.gitconfig 4
+   25  less ~/.gitconfig 4
+   27  git commit -m index.html 
+   28  git status
+   29  git diff
+   30  git agit commit -m "import inicial"
+   31  git commit -m "import inicial"
+   32  git add index.html 
+   33  git commit -m "import inicial"
+   34  git add index.html 
+   35  git log
+   36  git checkout 457bad902a05fbfb893d17dab93786138bbb0fb6
+   39  git log
+   42  git commit -m "Titol"
+   43  git add index.html 
+   44  git commit index.html 
+   45  git commit -m "Titol"
+   46  git push index.html
+   47  git push index.html smx2b
+   50  git clone git@github.com:jogaga1/projecte-smx2b-2025-2026.git
+   52  git clone git@github.com:jogaga1/projecte-smx2b-2025-2026.git
+   54  git clone git@github.com:jogaga1/projecte-smx2b-2025-2026.git
+   56  git remote add origin git@github.com:jogaga1/repo-test
+   57  git branch -m main
+   58  git push -u origin main
+   59  git remote add origin git@github.com:jogaga1/test-smx2b
+   60  git branch -m main
+   61  git push -u origin main
+   62  git pull
+   63  git remote -v
+   67  git clone git@github.com:jogaga1/projecte-smx2b-2025-2026.git
+   72  git add README.md 
+   73  git commit -n "New style"
+   74  git status
+   75  git restore README.md 
+   76  git status
+   77  git status README.md 
+   78  git commit -n "New style"
+   79  git commit -n "New style" README.md 
+   80  git commit -n 'New style' README.md 
+   81  git commit -n 'New style'
+   82  git add README.md 
+   83  git commit -n 'New style'
+   84  git commit -m README.md 'h'
+   85  git commit -m README.md 
+   86  git status
+   87  git push
+   88  git pull
+   89  git push
+   91  git commit -m README.md 
+   92  git pull README.md
+   93  git pull 'h'
+   96  cd 01-git-basics-jogaga1/
+  103  git status
+  104  git add exe1.html 
+  105  git add exe2.html 
+  106  git status
+  107  git commit 'exercici 3'
+  108  git commit -m 'exercici 3'
+  109  git push
+  112  git status
+  113  git add README.md 
+  114  git commit -m 'using Bootstrap'
+  115  git push
+  116  git branch web
+  117  git checkout main
+  118  git branch
+  119  git rm -r --chched .
+  120  git rm -r --chached .
+  121  git rm -r --cached .
+  122  git restore README.md 
+  123  git reset README.md
+  125  git status
+  126  git commit -m 'Mantenir README.md'
+  127  git status
+  128  git push origin main
+  129  git push origin web
+  130  git status
+  131  git brach
+  132  git branch
+  133  git switch branch web
+  134  git switch web
+  136  git add .
+  137  git status
+  139  git commit -m 'Mantenir README.md'
+  140  git push origin main
+  142  git status
+  143  git rm -r .
+  145  git reset README.md
+  146  git statu
+  147  git status
+  148  git restore --staged README.md
+  150  git status
+  151  git restore README.md 
+  153  git commit 'nomes readme.md a la main'
+  154  git commit -m 'nomes readme.md a la main'
+  155  git push -m
+  156  git push origin main
+  158  git switch web
+  160  git switch main
+  161  history | grep git  git.log
+  162  history | grep git > git.log
